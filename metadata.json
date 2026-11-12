@@ -1,0 +1,6 @@
+{
+  "name": "Mozzo Studio",
+  "description": "Luxury photography and videography studio showcase, FRW package price calculator, photo and video galleries, bilingual English & Kinyarwanda support, payment guide, and WhatsApp booking for MOZZO Photography & Videography in Muhanga, Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
